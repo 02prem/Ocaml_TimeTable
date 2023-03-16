@@ -22,3 +22,5 @@ Assign each node a different colour.
 * Repeat until all nodes are pushed into the stack
 * Start popping node from the stack
 * Assign colours as necessary
+
+Link to the Github repo: [link](https://github.com/02prem/Ocaml_TimeTable)
