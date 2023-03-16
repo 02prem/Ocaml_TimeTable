@@ -1,7 +1,12 @@
 # Ocaml_TimeTable
 
+## Members:
+* Harsh Shah (IMT2020006)
+* Prem Shah (IMT2020044)
+
 ## Pre-processing: 
 Convert the list of tuples having list of courses taken by each participant to list of tuples having participants in each course.
+
 Example: [("p1", ["c1"; "c2"]); ("p2", ["c1"])] to [("c1", ["p1"; "p2"]); ("c2", ["p1"])]
 
 ## Inference graph:
